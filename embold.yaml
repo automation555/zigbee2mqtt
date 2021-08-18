@@ -1,6 +1,6 @@
 version: 1
 sources: 
--'/etc'
+-'etc'
   #Files or Directories to be Excluded are mentioned in exclusions
   exclusions:
     - 'test'
