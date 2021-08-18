@@ -1,5 +1,5 @@
 version: 1
-sources:
+sources: /opt
   #Files or Directories to be Excluded are mentioned in exclusions
   exclusions:
     - 'test'
